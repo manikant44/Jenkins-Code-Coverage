@@ -24,7 +24,8 @@
     },
     "coverageReporters": [
       "text",
-      "cobertura"
+      "cobertura",
+	  "json-summary"
     ]
   },
   "eslintConfig": {

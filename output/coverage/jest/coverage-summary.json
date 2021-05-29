@@ -1,0 +1,5 @@
+{"total": {"lines":{"total":11,"covered":1,"skipped":0,"pct":9.09},"statements":{"total":11,"covered":1,"skipped":0,"pct":9.09},"functions":{"total":3,"covered":1,"skipped":0,"pct":33.33},"branches":{"total":4,"covered":0,"skipped":0,"pct":0}}
+,"C:\\Users\\aa\\Desktop\\Code-Coverage\\code-coverage\\src\\App.js": {"lines":{"total":1,"covered":1,"skipped":0,"pct":100},"functions":{"total":1,"covered":1,"skipped":0,"pct":100},"statements":{"total":1,"covered":1,"skipped":0,"pct":100},"branches":{"total":0,"covered":0,"skipped":0,"pct":100}}
+,"C:\\Users\\aa\\Desktop\\Code-Coverage\\code-coverage\\src\\index.js": {"lines":{"total":2,"covered":0,"skipped":0,"pct":0},"functions":{"total":0,"covered":0,"skipped":0,"pct":100},"statements":{"total":2,"covered":0,"skipped":0,"pct":0},"branches":{"total":0,"covered":0,"skipped":0,"pct":100}}
+,"C:\\Users\\aa\\Desktop\\Code-Coverage\\code-coverage\\src\\reportWebVitals.js": {"lines":{"total":8,"covered":0,"skipped":0,"pct":0},"functions":{"total":2,"covered":0,"skipped":0,"pct":0},"statements":{"total":8,"covered":0,"skipped":0,"pct":0},"branches":{"total":4,"covered":0,"skipped":0,"pct":0}}
+}
